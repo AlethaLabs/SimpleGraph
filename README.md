@@ -2,7 +2,7 @@
 
 A small C project that opens a window, lets you click to place points on a graph, and draws a regression line. It uses the 'least squares algorithm' to draw the line. 
 
-[!Demo](assets/images/multiple_points.png)
+![Demo](assets/images/multiple_points.png)
 
 ## Features
 
@@ -41,7 +41,7 @@ make run
 - Maximum stored points: 30
 - For exactly 2 points, the line is computed from those two points directly
 
-[!Demo](assets/images/2_points.png)
+![Demo](assets/images/2_points.png)
 
 - For more than 2 points, the program uses least-squares regression (See top)
 
